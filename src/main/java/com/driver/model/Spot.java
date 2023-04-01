@@ -15,7 +15,7 @@ public class Spot {
     private SpotType spotType;
 
     private int pricePerHour;
-//dfd
+//dfddff
     @Column(columnDefinition = "TINYINT(1)")
     private Boolean occupied;
 
